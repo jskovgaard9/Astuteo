@@ -4,7 +4,7 @@ description: "DESIGNED TO THRIVE"
 source: .
 destination: _site
 
-url: "http://0.0.0.0:4000/Astuteo/"
+url: "http://jskovgaard9.github.io/Astuteo/"
 baseurl: "/Astuteo"
 
 paginate: 10
