@@ -4,7 +4,7 @@ description: "DESIGNED TO THRIVE"
 source: .
 destination: _site
 
-url: "http://notandrewkaye.github.io/testJekyllSite"
+url: "http://0.0.0.0:4000/Astuteo/"
 baseurl: "/Astuteo"
 
 paginate: 10
@@ -14,3 +14,4 @@ paginate: 10
 markdown: rdiscount
 permalink: pretty
 pygments: true
+
