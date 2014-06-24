@@ -1,0 +1,16 @@
+name: "Astuteo"
+description: "DESIGNED TO THRIVE"
+
+source: .
+destination: _site
+
+url: "http://notandrewkaye.github.io/testJekyllSite"
+baseurl: "/Astuteo"
+
+paginate: 10
+
+#comment
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
